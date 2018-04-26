@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+/*
 public class Controlles : MonoBehaviour {
 
 	public GameObject world;
@@ -25,3 +25,4 @@ public class Controlles : MonoBehaviour {
 
 	}
 }
+*/

@@ -437,6 +437,7 @@ public class UDPPacketIO
 		ReadThread.Start();
 
 		#if UNITY_EDITOR
+		//UnityEditor.EditorApplication.playModeStateChanged;
 		UnityEditor.EditorApplication.playmodeStateChanged = HandleOnPlayModeChanged;
 		#endif
 
